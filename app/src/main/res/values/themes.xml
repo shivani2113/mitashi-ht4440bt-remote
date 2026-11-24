@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.MitashiRemote" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#FF111318</item>
+        <item name="android:navigationBarColor">#FF111318</item>
+    </style>
+</resources>
